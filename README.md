@@ -48,6 +48,7 @@ Performed additional analysis using SQL, including:
 Developed a two-page dashboard to explore business performance.
 
 **Page 1 – Sales & Revenue Overview**
+![Sales & Revenue Overview](screenshots/01_Sales_Revenue_Overview.png)
 
 - Revenue and order KPIs.
 - Product category performance.
@@ -57,6 +58,7 @@ Developed a two-page dashboard to explore business performance.
 - Monthly revenue trends.
 
 **Page 2 – Customer & Delivery Insights**
+![Customer & Delivery Insights](screenshots/02_Customer_Delivery_Insights.png)
 
 - Customer distribution by state.
 - Geographical customer distribution.
