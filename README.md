@@ -66,4 +66,4 @@ Developed a two-page dashboard to explore business performance.
 - Repeat customer rate.
 - Late delivery percentage.
 
-**Download:** [Power BI Dashboard – v1.0.0](../../releases/tag/v1
+**Download:** [Power BI Dashboard – v1.0.0](https://github.com/AravindK37/brazilian-ecommerce-analysis/releases/tag/v1.0.0)
